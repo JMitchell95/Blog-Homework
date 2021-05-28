@@ -1,5 +1,4 @@
 # Blog-Homework
 Blog HomeWork 
 
-
-Submitting with the intentions of finishing later.
+Added some mroe ground work. Forgot how handlebars works.
